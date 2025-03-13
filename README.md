@@ -49,13 +49,13 @@ Para garantizar la seguridad del software, puedes analizarlo en **VirusTotal**, 
 ### haloce_h_a_c_2_ingles_by_hceg.rar
 * d87bf60aac09e4ade6d279998e92299c4a03b7bbb82592e490a118b463f791f1
 
-* ### haloce_chimera1.0_ingles_by_hceg.rar
+### haloce_chimera1.0_ingles_by_hceg.rar
 * 9e017a6c06d1a40e4e93b0bd8d85edbabb211a8ae016654499150b59bcaf6e7f
 
-* ### haloce_chimera1.0_español_by_hceg.rar
+### haloce_chimera1.0_español_by_hceg.rar
 * 2e9141367bba088e008ae5fea31dc38b3ce1a373937309ecb42065f31d6dfe34
 
-* ### hcegL.rar
+### hcegL.rar
 * 37a4258f55ae33dff08b37448b11c59d976aa17f097cb3cb1a810608f65049be
 
 ---
