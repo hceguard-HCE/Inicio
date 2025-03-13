@@ -39,9 +39,12 @@ Para garantizar la seguridad del software, puedes analizarlo en **VirusTotal**, 
 
 📌 Puedes consultar más información en [VirusTotal](https://blog.virustotal.com/)  
 - 🔗 [virustotal google acquisition](https://blog-virustotal-com.translate.goog/2012/09/an-update-from-virustotal.html?_x_tr_sl=en&_x_tr_tl=es)  
-- 🔗 [Página oficial de VirusTotal](https://www.virustotal.com/gui/home/upload)  
+- 🔗 [Página oficial de VirusTotal](https://www.virustotal.com/gui/home/upload)
 
----
+## 🔍 Semillas para verificar en VirusTotal  
+
+# haloce_h_a_c_2_ingles_by_hceg.rar
+* c545da518e5147bca685bfde95a0d045f9af62df8dc391e9fa1a17ed92580630
 
 ## ⚠️ **Recomendaciones y Advertencias**  
 
