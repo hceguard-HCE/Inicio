@@ -1,4 +1,4 @@
-# 🛡️ HCEGUARD
+# 🛡️ **HCEGuard**
 
 Aquí podrás ver todas las actualizaciones y cambios importantes realizados en el programa. Mantente al tanto de las nuevas funciones, mejoras y correcciones.  
 
@@ -28,8 +28,8 @@ Este changelog se actualizará constantemente para mantenerte informado sobre nu
 
 ## 🚀 Uso  
 
-- **Si usas HAC2:** Busca el servidor con `F5` y luego presiona `ALT + número del servidor`.  
-- **Si usas Chimera 1.0:** Busca el servidor con `ALT + 0` y luego presiona `ALT + número del servidor`.  
+- **Si usas HAC2:** Busca el servidor con F5 y luego presiona ALT + número del servidor.  
+- **Si usas Chimera 1.0:** Busca el servidor con ALT + 0 y luego presiona ALT + número del servidor.  
 
 ---
 
@@ -37,9 +37,19 @@ Este changelog se actualizará constantemente para mantenerte informado sobre nu
 
 Para garantizar la seguridad del software, puedes analizarlo en **VirusTotal**, un servicio de escaneo de archivos y URLs que pertenece a **Google**. VirusTotal utiliza múltiples motores antivirus para detectar posibles amenazas.  
 
-📌 Puedes consultar más información en [VirusTotal](https://blog.virustotal.com/) 
+📌 Puedes consultar más información en [VirusTotal](https://blog.virustotal.com/)  
 - 🔗 [virustotal google acquisition](https://blog-virustotal-com.translate.goog/2012/09/an-update-from-virustotal.html?_x_tr_sl=en&_x_tr_tl=es)  
 - 🔗 [Página oficial de VirusTotal](https://www.virustotal.com/gui/home/upload)  
+
+---
+
+## ⚠️ **Recomendaciones y Advertencias**  
+
+**Uso de VPN:**
+El uso de VPN está prohibido debido a su uso malicioso. Si detectamos que estás utilizando una VPN, es posible que se te aplique un baneo temporal. Los servicios de VPN pueden ser utilizados para evadir restricciones de acceso, lo cual va en contra de las políticas del servidor.
+
+**Tipos de baneo y tiempos:**
+- **Baneo Permanente:** aplicado en caso de uso de VPN.
 
 ---
 
