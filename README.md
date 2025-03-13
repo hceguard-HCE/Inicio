@@ -46,11 +46,13 @@ Para garantizar la seguridad del software, puedes analizarlo en **VirusTotal**, 
 ## ⚠️ **Recomendaciones y Advertencias**  
 
 **Uso de VPN:**
-El uso de VPN está prohibido debido a su uso malicioso. Si detectamos que estás utilizando una VPN, es posible que se te aplique un baneo temporal. Los servicios de VPN pueden ser utilizados para evadir restricciones de acceso, lo cual va en contra de las políticas del servidor.
+El uso de VPN está prohibido debido a su uso malicioso. Si detectamos que estás utilizando una VPN, es posible que se te aplique un baneo. Los servicios de VPN pueden ser utilizados para evadir restricciones de acceso, lo cual va en contra de las políticas del servidor.
 
 **Tipos de baneo y tiempos:**
 - **Baneo Permanente:** aplicado en caso de uso de VPN.
 
+**Excepción para usuarios en Europa:**
+Si vives en Europa y necesitas usar una VPN por razones legítimas (por ejemplo, para garantizar la privacidad en tu conexión), puedes ponerte en contacto con nuestro soporte para demostrar que realmente resides en Europa. Una vez validado, se podrá hacer una excepción para el uso de VPN.
 ---
 
 ¡Gracias por confiar en HCEGuard! 🚀
