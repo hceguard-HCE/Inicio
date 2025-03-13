@@ -12,7 +12,7 @@ Este changelog se actualizará constantemente para mantenerte informado sobre nu
 
 ## 🚀 Instalación del Launcher  
 
-🔗 **Descarga el launcher desde el siguiente enlace:**  
+🔗 **Descarga el launcher o versiones disponibles desde el siguiente enlace:**  
 [⬇️ Descargar](https://drive.google.com/drive/folders/1xFPgW5JZ-jOs_iMvDBYr0EhVN6uT5Q2S)  
 
 📌 **Al ingresar al enlace, haz clic en "Descargar todo".**  
