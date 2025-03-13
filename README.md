@@ -1,4 +1,4 @@
-# 🛡️ Changelog Oficial de HCEGuard  
+# 🛡️ HCEGUARD
 
 Aquí podrás ver todas las actualizaciones y cambios importantes realizados en el programa. Mantente al tanto de las nuevas funciones, mejoras y correcciones.  
 
