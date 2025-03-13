@@ -52,7 +52,7 @@ El uso de VPN está prohibido debido a su uso malicioso. Si detectamos que está
 - **Baneo Permanente:** aplicado en caso de uso de VPN.
 
 **Excepción para usuarios en Europa:**
-Si vives en Europa y necesitas usar una VPN por razones legítimas (por ejemplo, para garantizar la privacidad en tu conexión), puedes ponerte en contacto con nuestro soporte para demostrar que realmente resides en Europa. Una vez validado, se podrá hacer una excepción para el uso de VPN.
+Si vives en Europa y necesitas usar una VPN por razones legítimas (por ejemplo, para garantizar la privacidad en tu conexión), puedes ponerte en contacto con nuestro soporte para demostrar que realmente resides en Europa. En tu mensaje, incluye la **IP utilizada en el momento en que fuiste baneado**. Una vez validado, se podrá hacer una excepción para el uso de VPN.
 
 ---
 
