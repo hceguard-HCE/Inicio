@@ -10,12 +10,10 @@ Este changelog se actualizará constantemente para mantenerte informado sobre nu
 
 ---
 
-## 🚀 Instalación del Launcher  
+## 🚀 Descargar 
 
 🔗 **Descarga el launcher o versiones disponibles desde el siguiente enlace:**  
 [⬇️ Descargar](https://drive.google.com/drive/folders/1xFPgW5JZ-jOs_iMvDBYr0EhVN6uT5Q2S)  
-
-📌 **Al ingresar al enlace, haz clic en "Descargar todo".**  
 
 📌 **Es necesario tener instalado el Entorno de ejecución de escritorio de .NET 8.0.13. Si ya lo tienes instalado, puedes omitir este paso.**  
 
