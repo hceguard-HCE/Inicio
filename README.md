@@ -1,7 +1,7 @@
 # 🛡️ **HCEGuard**
 
 🔗 **Pagina Oficial:**  
-[⬇️ Visita]([https://drive.google.com/drive/folders/1xFPgW5JZ-jOs_iMvDBYr0EhVN6uT5Q2S](https://hceguard.nicepage.io/))  
+[⬇️ Visita](https://hceguard.nicepage.io/)
 
 Aquí podrás ver todas las actualizaciones y cambios importantes realizados en el programa. Mantente al tanto de las nuevas funciones, mejoras y correcciones.  
 
